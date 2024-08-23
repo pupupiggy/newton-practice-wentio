@@ -37,3 +37,4 @@ def Newton(x0, f):
 
         i += 1  #
     return x
+# hi wentio
